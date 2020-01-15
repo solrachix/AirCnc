@@ -1,8 +1,10 @@
 # aircnc
 
-![Alt Text](https://github.com/solrachix/aircnc/blob/master/Template.png)
+![Alt Text](https://github.com/solrachix/aircnc/blob/master/Imgs/Template.png)
 
 Projeto resultado da Semana OmniStack # 9
+
+# Entre dentro das pasta para ver mais.
 
 # Tecnologias:
 #### * React

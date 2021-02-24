@@ -1,0 +1,12 @@
+{
+  "project_name": "AirCnc",
+  "type": "Fullstack",
+  
+  "template_url": "./.github/template.png",
+  "logo_url": "./.github/logo.png",
+
+
+  "backend": "./backend",
+  "web": "./web",
+  "mobile": "./mobile"
+}

@@ -1,17 +1,41 @@
-# aircnc
+<p align="center">
+  <img src="mobile/src/assets/logo@3x.png" />
+</p>
 
-![Alt Text](https://github.com/solrachix/aircnc/blob/master/Imgs/Template.png)
+<p align="center">
+Airbnb like (Air Coffee &amp; Code) to booking spots for developers.
 
-Projeto resultado da Semana OmniStack # 9
+<img src="template.png" alt="project banner"/>
 
-# Entre dentro das pasta para ver mais.
+>This project was made for study purposes only and comes from Rocketseat's omnistack week crash course #9 with my own modifications
+</p><br/>
 
-# Tecnologias:
-#### * React
-  Utilizado no frontend web.
-#### * ReactNative
-  Utilizado no frontend mobile.
-#### * Express
-  Utilizado junto ao NodeJS para criar o Backend da aplicação, em forma de API.
-#### MongoDB
-  Banco de dados NoSQL, usado nessa aplicação.
+
+
+# Stack
+
+- Website
+  - ReactJS
+  - Socket.io
+  - Axios
+  - \* [check package.json](/web/package.json)
+
+- Mobile
+  - React Native
+  - Expo
+  - Socket.io
+  - Axios
+  - \* [check package.json](/mobile/package.json)  
+
+- Server
+  - Node.js
+  - Express
+  - Socket.io
+  - MongoDB
+  - Mongoose
+  - Multer
+  - Dotenv
+  - \* [check package.json](/backend/package.json)
+
+# License
+[MIT License](https://github.com/daltonmenezes/aircnc/blob/master/LICENSE)

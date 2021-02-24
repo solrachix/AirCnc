@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="mobile/src/assets/logo@3x.png" />
+  <img src="https://github.com/solrachix/aircnc/blob/master/.github/logo.png?raw=true" />
 </p>
 
 <p align="center">
 Airbnb like (Air Coffee &amp; Code) to booking spots for developers.
 
-<img src="template.png" alt="project banner"/>
+<img src="https://github.com/solrachix/aircnc/blob/master/.github/template.png?raw=true" alt="project banner"/>
 
 >This project was made for study purposes only and comes from Rocketseat's omnistack week crash course #9 with my own modifications
 </p><br/>
